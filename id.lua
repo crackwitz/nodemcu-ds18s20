@@ -1,5 +1,5 @@
 -- mqtt, mdns
-nodename = "cracki-nodemcu-stromzaehler"
+nodename = "cracki-nodemcu-ds18s20"
 
 -- mqtt
-basetopic = "cracki/nodemcu-stromzaehler"
+basetopic = "cracki/nodemcu-ds18s20"
